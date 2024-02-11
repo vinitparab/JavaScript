@@ -4,10 +4,13 @@
 
 console.log(3+3);
 
+
 console.log("Vinit");
-let name="vinit"
-let age=18
+let n = "vinit";
+let age = 18;
 let isloggedIn=false
+console.log(n)
+
 
 //number=> 2 to the power 53
 //bigint
